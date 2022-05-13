@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD. ABU NOMAN</h1>
-<h3 align="center">A Graduate CSE Student, who loves Learning new fields and currently foucing on frontend development at MERN Stack(ReactJs, NodeJs, ExpressJs,MongoDB)</h3>
+<h3 align="center">A Graduate CSE Student, Currently Focusing on Development at MERN Stack(ReactJs, NodeJs, ExpressJs,MongoDB)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abu-noman30&label=Profile%20views&color=0e75b6&style=flat" alt="abu-noman30" /> </p>
 
