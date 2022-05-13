@@ -9,11 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/abu-noman30](https://github.com/abu-noman30)
 
-- 💬 Ask me about **ReactJS**
+- 💬 Ask me about **ReactJS** , **ExpressJS** , **NodeJS** , **MongoDB**
 
-- 📫 How to reach me **nomannabil30@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/resume-builder/urn:li:fs_memberResume:33237730/](https://www.linkedin.com/resume-builder/urn:li:fs_memberResume:33237730/)
+- 📫 How to reach me **Telegram :** https://t.me/abunoman30
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
