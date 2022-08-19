@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
+  <img width="100%" height="" src="noman.png" />  
   <h1 align="center">Hi 👋, I'm MD. ABU NOMAN</h1>
   <h3 align="center">A Graduate CSE Student, Currently Focusing on Development at MERN Stack(ReactJs, NodeJs, ExpressJs,MongoDB)</h3>
 </p>
