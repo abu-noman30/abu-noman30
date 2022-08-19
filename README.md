@@ -58,7 +58,7 @@
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abu-noman30&theme=react&hide_border=true" alt="abu-noman30" />
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
 </div>
-<!-- Github Continuous clock in end -->
+<!-- clock in end -->
 </br>
 <div>
   
