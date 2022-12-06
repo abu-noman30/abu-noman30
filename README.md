@@ -14,7 +14,7 @@
 
 
 ## 🌐 Social:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/AbuNoman30/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-abu-noman-994a631b0/) ![Gmail](https://img.shields.io/badge/Gmail-%ff0000.svg?logo=gmail&logoColor=white)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/AbuNoman30/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-abu-noman-994a631b0/) [![Gmail](https://img.shields.io/badge/Gmail-%ff0000.svg?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/5/#inbox?compose=GTvVlcSBnqKgMzMLjFSfnNFSvfMXfHRNFWjdLLGZGpLpPzFgrHXcZZlZfXjXSMbsXMRksJNXrswxJ)
 
 
 # 💻 Tech Stack:
