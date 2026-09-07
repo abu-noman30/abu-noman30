@@ -2,7 +2,7 @@
 
 <!-- Cover Banner — export the SVG from the chat above and upload to your repo as `banner.svg`, then reference it here -->
 <!-- Replace the URL below with your actual uploaded banner image path -->
-<!-- <img src="./banner.svg" alt="Abu Noman — Senior Software Engineer" width="100%" /> -->
+<img src="./github_profile_cover_banner.svg" alt="Abu Noman — Senior Software Engineer" width="100%" />
 
 # 👋 Hi, I'm MD. Abu Noman
 
